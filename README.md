@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Нажмите на ссылку, чтобы открыть мой сайт на Wix</h1>
-    <a href="https://kozhagul2024.wixsite.com/my-site-2 target="_blank">Перейти на мой сайт</a>
+    <a href="https://kozhagul2024.wixsite.com/my-site-2"_blank">Перейти на мой сайт</a>
 </body>
 </html>
